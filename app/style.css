@@ -1,9 +1,13 @@
 body{
+    margin:0;
     color: #82a5ca;
-    background-image: url("/home/trainee/projectkabi1/space/app/giphy.gif");
-    background-size: cover;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
+}
+#hero{
+    background-image: url("/home/trainee/projectkabi1/space/app/giphy.gif");
+    background-size: cover;
+    padding:10px 0 40px 0;
 }
 #main-logo{
     width: 200px;
@@ -14,7 +18,7 @@ body{
     border:none;
     font-family: 'Orbitron', sans-serif;
     color: #82a5ca;
-    font-weight:bold;
+    font-weight:800;
 
 }
 .underline{
